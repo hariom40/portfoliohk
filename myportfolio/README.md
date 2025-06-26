@@ -25,7 +25,8 @@ A fully responsive personal portfolio website built using **React** and **Tailwi
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./Screenshot(183).png)
+![Portfolio ![Screenshot (183)](https://github.com/user-attachments/assets/2af2f8d1-21c2-4e73-8f7e-9090096a7ebe)
+Screenshot](./Screenshot(183).png)
 
 ## 📬 Contact
 
