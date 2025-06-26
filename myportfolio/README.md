@@ -19,7 +19,7 @@ A fully responsive personal portfolio website built using **React** and **Tailwi
 ## 🛠 Tech Stack
 
 - React.js
-- Tailwind CSS
+  
 - EmailJS
 - Vite
 
